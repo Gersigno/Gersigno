@@ -16,6 +16,9 @@ English, French
 - ### 📫 How to reach me </p>
 **contact.gersigno@gmail.com**
 
+- ### 🌐 My online portfolio </p>
+**[gersigno.github.io](https://gersigno.github.io/)**
+
 <br />
 
 # 🧰 Languages and Tools:
