@@ -1,22 +1,22 @@
 <h1 align="center">Hi there, I'm Gersigno 👋</h1>
 <h3 align="center">A computer science enthusiast currently learning web development. I have some notions of cyber security, game hacking, reverse engineering, OSINT...</h3>
-<p align="center"> <small> (I'm not here to fix your printer !) </small> </p>
+<p align="center"> <small> (Please don't ask me to fix your printer 😔) </small> </p>
 
 # 👩‍💻 About me:
 
 - ### 💬 Who am i ? 
 **I'm a self-taugh Software-Engineer** with the purpose of learning as much as I can to be able to later work on **cyber-security** or **game development.**
 
-- ### 🌱 I’m currently learning </p>
+- ### 🌱 I’m currently learning 
 **Web development** *(front/back end)*, **Linux** environment *and basically everything related with computer sciences.*
 
-- ### 🌍 Languages </p>
+- ### 🌍 Languages 
 English, French
 
-- ### 📫 How to reach me </p>
+- ### 📫 How to reach me 
 **contact.gersigno@gmail.com**
 
-- ### 🌐 My online portfolio </p>
+- ### 🌐 My online portfolio 
 **[gersigno.github.io](https://gersigno.github.io/)**
 
 <br />
