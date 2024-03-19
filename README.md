@@ -3,26 +3,27 @@
 <p align="center"> <small> (Please don't ask me to fix your printer 😔) </small> </p>
 
 # 👩‍💻 About me:
-<h3>💬 Who am i ?</h3>
-<div>
-    <b>Gersigno,</b> </br>
-    a <b><i>self-taugh</i> Software-Engineer 👨‍🎓</b>. </br>
-    Learning <b>Cyber-security</b> <i>&</i> <b>web development</b>. 👩‍💻 </br>
-    Love UI/UX design 🎨 </br>
-    C/C++/Game hacking & reverse engineering... 🤓 </br>
-</div>
-
-<h2>🌱 I’m currently learning </h2>
-<b>Web development</b> <i>(front/back end)</i>, <b>Linux</b> environment <i>and computer science in general.</i>
-  </br>
-<h2>🌍 Languages </h2>
-I can easily <b><i>speak and write</i></b> <b>French</b> and <b>English</b> !
-  </br>
-<h2>📫 How to reach me </h2>
-You can contact me via email at <a href="mailto: contact.gersigno@gmail.com">contact.gersigno@gmail.com</a>
-  </br>
-<h2>🌐 My online portfolio </h2>
-<a href="https://gersigno.github.io/">https://gersigno.github.io/</a>
+<dl><dd><dl><dd>
+        <h3>💬 Who am i ?</h3>
+        <div>
+            <b>Gersigno,</b> </br>
+            a <b><i>self-taugh</i> Software-Engineer 👨‍🎓</b>. </br>
+            Learning <b>Cyber-security</b> <i>&</i> <b>web development</b>. 👩‍💻 </br>
+            Love UI/UX design 🎨 </br>
+            C/C++/Game hacking & reverse engineering... 🤓 </br>
+        </div>
+        <h2>🌱 I’m currently learning </h2>
+        <b>Web development</b> <i>(front/back end)</i>, <b>Linux</b> environment <i>and computer science in general.</i>
+          </br>
+        <h2>🌍 Languages </h2>
+        I can easily <b><i>speak and write</i></b> <b>French</b> and <b>English</b> !
+          </br>
+        <h2>📫 How to reach me </h2>
+        You can contact me via email at <a href="mailto: contact.gersigno@gmail.com">contact.gersigno@gmail.com</a>
+          </br>
+        <h2>🌐 My online portfolio </h2>
+        <a href="https://gersigno.github.io/">https://gersigno.github.io/</a>
+</dd></dl></dd></dl>
 
 
 # 🧠 My knowledge
