@@ -1,6 +1,9 @@
+
 <h1 align="center">Hi there, I'm Gersigno 👋</h1>
 <h3 align="center">A computer science enthusiast currently learning web development. I have some notions of cyber security, game hacking, reverse engineering, OSINT...</h3>
 <p align="center"> <small> (Please don't ask me to fix your printer 😔) </small> </p>
+
+![GWP Logo Large](https://raw.githubusercontent.com/Gersigno/gersigno.github.io/main/resources/gwp_logo_alpha.PNG)
 
 # 👩‍💻 About me
 <dl><dd><dl><dd>
