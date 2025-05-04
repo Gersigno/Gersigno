@@ -1,4 +1,5 @@
 <img align="left" src="https://raw.githubusercontent.com/Gersigno/Gersigno/refs/heads/main/resources/rotate.gif">
+<br>
 
 ### Hi there, I'm Gersigno 👋
 
@@ -9,6 +10,8 @@
 
 [![views](https://komarev.com/ghpvc/?username=Gersigno&style=plastic&logo=statuspage&color=00b0ad&label=👁%20Views%20)](https://github.com/Gersigno) [![GitHub followers](https://img.shields.io/github/followers/Gersigno?style=plastic&logo=myspace&label=Followers&color=00b0ad)](https://github.com/Gersigno) [![Stars](https://img.shields.io/github/stars/Gersigno?style=plastic&label=★%20Stars&color=00b0ad)](https://github.com/Gersigno)
 
+<br>
+<br>
 <br>
 
 # ✨ About
