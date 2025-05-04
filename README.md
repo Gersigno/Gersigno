@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/Gersigno/Gersigno/refs/heads/master/assets/rotate.png">
+<img align="left" src="https://raw.githubusercontent.com/Gersigno/Gersigno/refs/heads/main/resources/rotate.gif">
 
 ### Hi there, I'm Gersigno 👋
 
@@ -10,7 +10,6 @@
 [![views](https://komarev.com/ghpvc/?username=Gersigno&style=plastic&logo=statuspage&color=00b0ad&label=👁%20Views%20)](https://github.com/Gersigno) [![GitHub followers](https://img.shields.io/github/followers/Gersigno?style=plastic&logo=myspace&label=Followers&color=00b0ad)](https://github.com/Gersigno) [![Stars](https://img.shields.io/github/stars/Gersigno?style=plastic&label=★%20Stars&color=00b0ad)](https://github.com/Gersigno)
 
 <br>
-<br>
 
 # ✨ About
 > 🌍 I can easily <b><i>speak and write</i></b> <b>French</b> and <b>English</b> !
@@ -19,17 +18,14 @@
 >
 > 💻 Using <b>Windows 10/11</b> and <b>Linux</b> Ubuntu & Arch <i>(btw)</i>.
 
-<br>
 
 # 🔮 Portfolio
 Check out my desktop like online portfolio here : <a href="https://gersigno.github.io/"><b>gersigno.github.io</b></a>
 
-<br>
 
 # ⛳️ Reach me
 You can contact me via email at <a href="mailto: contact.gersigno@gmail.com"><b>contact.gersigno@gmail.com</b></a>
 
-<br>
 
 # 🧠 Teck-stack
 <table align="center">
@@ -78,7 +74,6 @@ You can contact me via email at <a href="mailto: contact.gersigno@gmail.com"><b>
     </td>
   </tr>
 </table>
-<br/>
 
 # 📊 Statistics
 <div align="center">
